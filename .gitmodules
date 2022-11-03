@@ -1,0 +1,3 @@
+[submodule "myrep"]
+	path = myrep
+	url = git@github.com:lipipidronstudy/c-func.git
